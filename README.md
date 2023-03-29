@@ -26,9 +26,7 @@
 - There be nothing in the database so you can create a superuser by running `python3 manage.py createsuperuser` and follow the instructions to create a superuser then login to the admin panel `http\\:localhost:8000\admin\` and add some categories and posts.
 
 ## 💭 What is it and  How it works <a name = "working"></a>
-According to the django documentation, context_processors is a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context. in other words, it is a function that takes the request object as its only argument and returns a dictionary of items to be merged into the template context.
-
-Now why is it important? It is important because it allows you to add data to the context of every template rendered in a request. This is useful for adding data that is used in every template, such as the current user, site-wide settings, or anything else you might want to add to every page.
+According to the django documentation, context_processors is a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context. in other words, it is a function that takes the request object as its only argument and returns a dictionary of items to be merged into the template context. Now, why is it important? It is important because it allows you to add data to the context of every template rendered in a request. This is useful for adding data that is used in every template, such as the current user, site-wide settings, or anything else you might want to add to every page.
 
 So do you need to use it? No, you don't need to use it. But it is a very useful tool that can be used to add data to the context of every template rendered in a request.
 
@@ -78,4 +76,4 @@ and many more. you can find more use cases by searching for `django context proc
 
 
 ## 🎉 End <a name = "end"></a>
-I'm writing all this to  help myself and whoever finds if useful to understand djnago core concepts. I hope you find it useful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/khitoTM) or [LinkedIn](https://www.linkedin.com/in/daniel-ikekwem-361658238/)
+I'm writing all this to help myself and whoever finds it useful to understand djnago core concepts. I hope you find it useful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/khitoTM) or [LinkedIn](https://www.linkedin.com/in/daniel-ikekwem-361658238/)
