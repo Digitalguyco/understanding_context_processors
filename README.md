@@ -78,4 +78,4 @@ and many more. you can find more use cases by searching for `django context proc
 
 
 ## 🎉 End <a name = "end"></a>
-I'm writing all this to  help myself and whoever finds if useful to udnerstand djnago core concepts. I hope you find it useful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/khitoTM) or [LinkedIn](https://www.linkedin.com/in/daniel-ikekwem-361658238/)
+I'm writing all this to  help myself and whoever finds if useful to understand djnago core concepts. I hope you find it useful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/khitoTM) or [LinkedIn](https://www.linkedin.com/in/daniel-ikekwem-361658238/)
