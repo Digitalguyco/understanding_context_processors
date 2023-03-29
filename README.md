@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.logo.wine/a/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.svg" alt="Django logo"></a>
+ <img width=200px height=200px src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" alt="Django logo"></a>
 </p>
 
 <h3 align="center">Understanding Context Processors In Djnago</h3>
